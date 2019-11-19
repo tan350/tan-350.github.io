@@ -1,0 +1,81 @@
+<html>
+<head>
+<title>FINAL RESUME.html</title>
+<style>
+.header{
+border: 5px solid #73AD21;
+ padding: 50px;
+background-color: #73AD21;
+}
+.name{
+color: #000066;
+  font-family: verdana;
+  font-size: 300%;
+}
+</style>
+</head>
+<body style="background-color:#a5de54;">
+<div class="container">
+<div class="header">
+<div class="name"><img src="Tanuja.JPG" style="width:100px;border-radius: 50%;" align="middle">Tanuja Sharma</div>
+</div>
+<div style="position:absolute;left:10px;top:240px;width:20%;height:145%;background-color:#63961d;border: 5px solid #73AD21;">
+<div class="lists">
+<h2>Professional Skills</h2>
+<ul>
+<li>Teamwork</li>
+<li>Communication Skills</li>
+<li>Conflict Resolution</li>
+<li>Work Ethic</li>
+<li>Decision Making</li>
+<li>Time Management</li>
+<li>Self-motivation</li>
+<li>Leadership</li>
+<li>Adaptability</li>
+</ul>
+</div>
+<div class="lists">
+<h2>Academic Skills</h2>
+<ul>
+<li>Essay writing</li>
+<li>Research</li>
+<li>Presentation skills</li>
+<li>Independent learning</li>
+</ul>
+</div>
+<div class="lists">
+<h2>Computer Skills</h2>
+<ul>
+<li>Basics of computer hardware & software</li>
+<li>MS-Office (Word, Excel, Powerpoint)</li>
+<li>Adobe Photoshop,Adobe Pagemaker,Corel Draw</li>
+<li>CCC certified from NIELIT</li>
+</ul>
+</div>
+<div class="lists">
+<h2>Contact</h2>
+<p>P: +918218098173</p>
+<p>E: tsradhey123@gmail.com</p>
+</div> 
+</div>
+</div>
+<div style="position:absolute;right:10px;top:240px;width:76%;height:145%;background-color:#a5de54;border: 5px solid #73AD21;">
+<div class="lists">
+<blockquote><h2>About</h2>
+<p >I am a talented, ambitious and hardworking individual , with broad skills and experience in digital , social media and leading projects.I am able to handle multiple tasks on a daily basis . I use a creative approach to problem solve .I am always energetic and eager to learn new skills. A key strength is communication; building strong relationships with people in order to deliever the best results.I have experience working as part of a team and individually.I work with the team to provide imaginative solutions for our customers. I am always coming up with innovative ideas. I instil confidence in others and approach new challenges with an open mind.I have been told that I am an insipirational coach and mentor.I am a natural leader and developer of people.I understand the importance of being interactive and enjoy communicating with others for benefit of the company.I am an effective and articulate communicator with all levels of employees.</p></blockquote>
+<blockquote><h2>Academic-Record</h2>
+<h3>B.Sc.(Physical science)</h3>
+<h4>2018-21</h4>
+<h4>Gautam Buddha University(Greater Noida)[G.B. Nagar]</h4>
+<h3>Intermediate</h3>
+<h4>2017-18</h4>
+<h4>S R INT College(Khair)[Aligarh]</h4>
+<h3>Percentage: 82%</h3>
+<h3>Highschool</h3>
+<h4>2015-16</h4>
+<h4>N.C.C. High School(Khair)[Aligarh]</h4>
+<h3>Percentage: 88%</h3></blockquote>
+</div>
+</div><!--end container--> 
+</body>
+ </html>
